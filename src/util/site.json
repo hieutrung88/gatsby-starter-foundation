@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Ngon Đà Nẵng",
-    "titleTemplate": "%s",
+    "title": "Món Ngon Đà Nẵng",
+    "titleTemplate": "%m",
     "description": "Giúp bạn chọn một món đặc sản Đà Nẵng nhanh nhất",
     "siteUrl": "https://ngondanang.vn",
     "image": "/assets/stackrole.png",

@@ -9,7 +9,7 @@ description: >
   và nước mắm, tạo ra hương vị thơm ngon đặc trưng của món ăn này. Cá nhói sau
   khi được nướng chín, thịt bên trong vẫn giữ được độ giòn tanh, ăn kèm với nước
   sốt cay nồng rất hợp vị.
-featuredImage: /assets/dsc05288.jpg
+featuredImage: /assets/dsc05294.jpg
 ---
 Cá nhói nướng ớt xanh tại quán hải sản Bé Hạnh, là món tôi thử tiếp theo và có một trải nghiệm ẩm thực thật sự tuyệt vời.
 
@@ -19,4 +19,4 @@ Khi cắn miếng cá, thịt bên trong thơm ngon không thấy mùi tanh nh�
 
 Tổng quan, tôi rất hài lòng khi thưởng thức món cá nhói nướng ớt xanh tại quán hải sản Bé Hạnh và chắc chắn sẽ quay lại để thử nhiều món ăn khác.
 
-![](/assets/dsc05294.jpg)
+![](/assets/dsc05288.jpg)

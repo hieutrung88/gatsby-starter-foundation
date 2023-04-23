@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Ngon Đà Nẵng
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: "Món Tôm Sốt Bơ Tỏi "
+tagline: "Hải Sản Bé Hạnh / 240 Khúc Hạo, Sơn Trà, Đà Nẵng "
+featuredImage: /assets/bh1-scaled.jpg
 cta:
-  ctaText: Know more
+  ctaText: "Thực đơn & hình ảnh "
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Ngon Đà Nẵng giới thiệu đến mọi người một món ăn ngon nhất của quán hải sản Bé Hạnh , món Tôm Sốt Bơ Tỏi được chế biến theo công thức sốt bơ đặc biệt kết hợp với nguồn hải sản vừa đánh bắt . Ở Tôm Sốt Bơ Tỏi Bé Hạnh thực khách có thể thoải mái lựa chọn tôm chì , tôm sú , tôm hùm hay tôm tít còn bơi lội đem cân và ra món nóng tôm sốt thơm ngon .

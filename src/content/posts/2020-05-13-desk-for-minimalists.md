@@ -1,16 +1,16 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/dsc09778.jpg
+title: Tôm sốt bơ tỏi
+slug: /tom-sot-bo-toi
+date: 2023-04-23 15:37
+description: Hải Sản Bé Hạnh / 240 Khúc Hạo, Sơn Trà, Đà Nẵng
+featuredImage: /assets/dsc09773.jpg
 ---
 
 
 Nhà hàng Bé Hạnh là một trong những địa điểm ẩm thực nổi tiếng tại thành phố, và món tôm sốt bơ tỏi của nhà hàng đã trở thành một trong những món ăn được yêu thích bởi nhiều thực khách. Tôi đã có dịp thưởng thức món ăn này tại nhà hàng Bé Hạnh tại khu vực quận Sơn Trà, và dưới đây là bài review của tôi về món tôm sốt bơ tỏi tại nhà hàng Bé Hạnh.
 
-![](/assets/dsc09776.jpg)
+![](/assets/dsc09774.jpg)
 
 ## Hương vị đặc biệt  của món tôm sốt bơ tỏi
 

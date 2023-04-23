@@ -4,51 +4,32 @@ title: Desk for minimalists
 slug: /minimalists-desk
 date: 2020-05-13 12:46
 description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/dsc09778.jpg
 ---
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+Nhà hàng Bé Hạnh là một trong những địa điểm ẩm thực nổi tiếng tại thành phố, và món tôm sốt bơ tỏi của nhà hàng đã trở thành một trong những món ăn được yêu thích bởi nhiều thực khách. Tôi đã có dịp thưởng thức món ăn này tại nhà hàng Bé Hạnh tại khu vực quận Sơn Trà, và dưới đây là bài review của tôi về món tôm sốt bơ tỏi tại nhà hàng Bé Hạnh.
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+![](/assets/dsc09776.jpg)
 
-## It doesn't look so shiny to me.
+## Hương vị đặc biệt  của món tôm sốt bơ tỏi
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+Nếu bạn là một tín đồ của hương vị đậm đà và phức tạp, thì món tôm sốt bơ tỏi của nhà hàng Bé Hạnh chính là sự lựa chọn hoàn hảo cho bạn. Với một sự kết hợp hoàn hảo giữa vị béo ngọt của bơ và vị thơm của tỏi, món ăn này mang đến một hương vị tuyệt vời và đa dạng.
 
-![]()
+![](/assets/dsc09779.jpg)
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+Sốt bơ tỏi được chế biến đúng cách, vừa đủ đậm đà và thơm ngon, tạo nên một hương vị trung tính vừa phải để không bị áp đảo bởi vị của tôm. Sốt bơ tỏi cũng có thể được tăng cường bằng cách thêm các gia vị như tiêu, ớt hoặc gia vị khác để tạo ra một hương vị đậm đà hơn nữa.
 
-### Daylight and everything.
+![](/assets/dsc09774.jpg)
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+Tôm sốt bơ tỏi ở nhà hàng Bé Hạnh được chế biến rất tinh tế và chính xác, đảm bảo rằng tôm không quá chín hoặc quá cứng. Vị của tôm cũng rất đậm đà, ngọt ngào, tươi mới và hòa quyện với hương vị của sốt bơ tỏi tạo ra một hương vị đặc trưng không thể lẫn vào đâu được.
 
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
+## Giá cả phải chăng và dịch vụ tuyệt vời
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+![](/assets/dsc09780.jpg)
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
+Điểm đặc biệt của món tôm sốt bơ tỏi tại nhà hàng Bé Hạnh chính là sự tươi ngon và đa dạng về lựa chọn. Với mức giá phải chăng, nhà hàng đáp ứng được sự lựa chọn của khách hàng bằng cách tùy chỉnh, độ mặn và độ ngọt của món tôm sốt bơ tỏi.
 
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
+## Tổng kết
 
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+ Tóm lại, món tôm sốt bơ tỏi tại nhà hàng Bé Hạnh Bình Thạnh là một món ăn đặc trưng của địa phương, được chế biến tinh tế và đầy đa dạng. Món ăn đem lại trải nghiệm thưởng thức độc đáo và giá cả phải,bạn nên thử món tôm sốt bơ tỏi nó sẽ khiến bạn bất ngờ với hương vị của nó mang lại

@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: VỀ CHÚNG TÔI
 ---
-Chào mừng đến với trang ngondanang.vn chúng tôi - nơi cung cấp các đánh giá chân thực về các món ăn ngon nhất tại Đà Nẵng
+Chào mừng đến với trang [ngondanang.vn](http://ngondanang.vn/) chúng tôi - nơi cung cấp các đánh giá chân thực về các món ăn ngon nhất tại Đà Nẵng
 
 ![](/assets/dsc09833.jpg)
 

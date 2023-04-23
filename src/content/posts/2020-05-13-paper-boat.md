@@ -1,10 +1,15 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
-date: 2020-05-23 23:40
-description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+title: Cá nhói nướng ớt xanh
+slug: /ca-nhoi-nuong-ot-xanh
+date: 2023-04-23 14:59
+description: >
+  Món cá nhói nướng ớt xanh là một món ăn đặc sắc và hấp dẫn tại Đà Nẵng .  Cá
+  nhói hay còn gọi là cá xương xanh tươi ngon ướm ớt xanh tươi, tỏi, đường, muối
+  và nước mắm, tạo ra hương vị thơm ngon đặc trưng của món ăn này. Cá nhói sau
+  khi được nướng chín, thịt bên trong vẫn giữ được độ giòn tanh, ăn kèm với nước
+  sốt cay nồng rất hợp vị.
+featuredImage: /assets/dsc05288.jpg
 ---
 
 In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.

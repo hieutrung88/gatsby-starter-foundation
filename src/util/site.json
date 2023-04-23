@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Ngon Đà Nẵng",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Giúp bạn chọn một món đặc sản Đà Nẵng nhanh nhất",
+    "siteUrl": "https://ngondanang.vn",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-1L8MZ8L7E2"
 }

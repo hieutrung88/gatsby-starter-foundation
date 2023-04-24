@@ -1,54 +1,33 @@
 ---
 template: blog-post
-title: Book Shelf
-slug: /book-shelf
-date: 2019-07-10T00:00:00.000Z
-description: sdasd
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+title: Cá đuối nướng
+slug: /ca-duoi-nuong
+date: 2023-04-24 14:39
+description: Hải Sản Bé Hạnh / 240 Khúc Hạo, Sơn Trà, Đà Nẵng
+featuredImage: /assets/dsc09818.jpg
 ---
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+Trong thời gian gần đây, cá đuối nướng đang trở thành một trong những món ăn mới lạ và đang thu hút sự quan tâm của nhiều thực khách khắp nơi. Với hương vị độc đáo, thịt cá dai, ngọt và ngon, cá đuối nướng đang được ưa chuộng và trở thành món ăn hot nhất trong thế giới ẩm thực
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+ 
 
-## It doesn't look so shiny to me.
+![](/assets/dsc09793.jpg)
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+Cá đuối là một loài cá có hình thù đặc biệt, thường được tìm thấy ở các vùng biển nhiệt đới. Thịt của cá đuối rất giàu chất dinh dưỡng, đặc biệt là protein và omega-3, giúp tăng cường sức khỏe và giảm thiểu nguy cơ mắc các bệnh tim mạch
 
-![]()
+##   Ngon hơn khi ăn kèm 
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+Món ăn này được ăn kèm với các loại nước chấm như tương ớt, nước mắm, nước chanh, rau sống, bánh mì hoặc cơm. Khi ăn, bạn sẽ cảm nhận được hương vị đặc trưng của cá đuối, thịt cá dai, ngọt và thơm, kết hợp với vị cay của ớt, mặn của nước chấm và ngọt của rau sống
 
-### Daylight and everything.
+![](/assets/dsc09822.jpg)
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+##  Phổ biến ở các nhà hàng ,khách sạn
 
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
+Cá đuối nướng đang trở thành một trong những xu hướng ẩm thực mới nhất và được rất nhiều nhà hàng, quán ăn, khách sạn, resort đưa vào menu của mình. Món ăn này không chỉ mang đến cho thực khách những trải nghiệm mới lạ, mà còn giúp tăng cường sức khỏe, là một món ăn đầy dinh dưỡng
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+![](/assets/dsc09796.jpg)
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
+## K﻿ết luận 
 
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+Nếu bạn là một tín đồ của ẩm thực và muốn khám phá các món ăn mới lạ, hãy thử nếm thử món cá đuối nướng tại quán hải sản Bé Hạnh. Chắc chắn bạn sẽ không thất vọng với hương vị độc đáo và đặc biệt của nó.

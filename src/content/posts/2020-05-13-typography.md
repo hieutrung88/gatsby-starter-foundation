@@ -16,3 +16,5 @@ Ghẹ là loài hải sản phổ biến ở Việt Nam, có hình dáng giống
 Để chuẩn bị món lẩu ghẹ, ghẹ được rửa sạch và đem đun với nước dùng pha sẵn. Các loại rau củ tươi sống như cải xanh, cải thìa, rau muống, bông bí, đậu hũ non cũng được chuẩn bị để ăn kèm với ghẹ. Nước lẩu được pha với các gia vị như tỏi, ớt, gừng và nước mắm để tăng thêm hương vị cho món ăn.
 
 Món lẩu ghẹ là một món ăn phổ biến được ưa chuộng bởi hương vị đậm đà và thanh mát. Đây cũng là một trong những món ăn được khuyến khích cho các buổi sum họp, tiệc tùng hay dự tiệc gia đình. Nếu bạn muốn trải nghiệm hương vị đặc trưng của một món ăn Việt Nam hấp dẫn và thú vị, hãy thử món lẩu ghẹ tại các nhà hàng và quán ăn địa phương để khám phá sự đa dạng của ẩm thực Việt Nam.
+
+Địa chỉ quán hải Bé Hạnh : 091 414 29 16 https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7

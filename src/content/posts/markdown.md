@@ -1,324 +1,40 @@
 ---
 template: blog-post
-slug: /markdown
-date: 2020-05-09T05:53:16.102Z
-title: "Markdown: Syntax"
-featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
+title: Hàu nướng phô mai
+slug: /hau-nuong-pho-mai
+date: 2023-04-25 11:57
+description: Nhà hàng Bé Hạnh là một địa điểm ẩm thực nổi tiếng tại TP. Đà Nẵng
+  với món hàu nướng phô mai được đánh giá rất cao về hương vị và tinh tế.
+featuredImage: /assets/dsc09832.jpg
 ---
+Hàu nướng phô mai là món ăn được yêu thích bởi sự kết hợp giữa vị ngọt của phô mai và vị mặn của hàu. Hôm nay, tôi muốn chia sẻ với các bạn về trải nghiệm của mình khi thưởng thức món hàu nướng phô mai tại nhà hải sản Bé Hạnh.
 
-## Overview
+ 
 
-### Philosophy
+![](/assets/dsc09832.jpg)
 
-Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
+Để bắt đầu, tôi muốn đề cập đến nhà hàng này. Nhà hải sản Bé Hạnh nằm trên đường Hải Sản Bé Hạnh / 240 Khúc Hạo, Sơn Trà, Đà Nẵng. Đây là một nhà hàng chuyên về hải sản với các món ăn được chế biến từ tôm, cua, mực, và hàu. Không gian quán rộng rãi, thoáng mát và sạch sẽ, tạo cảm giác thoải mái cho thực khách khi đến đây.
 
-Readability, however, is emphasized above all else. A Markdown-formatted
-document should be publishable as-is, as plain text, without looking
-like it's been marked up with tags or formatting instructions. While
-Markdown's syntax has been influenced by several existing text-to-HTML
-filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
-[Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
-inspiration for Markdown's syntax is the format of plain text email.
+##  Hương vị béo ngậy của hàu nướng phô mai
 
-## Block Elements
+Món hàu nướng phô mai ở đây được chế biến rất tinh tế và đẹp mắt. Các con hàu được tẩm ướp gia vị rồi được nướng trên bếp than đỏ cho đến khi chín vàng. Sau đó, phô mai được phủ lên mặt hàu và nướng tiếp cho đến khi phô mai chảy ra và chín giòn.
 
-### Paragraphs and Line Breaks
+ 
 
-A paragraph is simply one or more consecutive lines of text, separated
-by one or more blank lines. (A blank line is any line that looks like a
-blank line -- a line containing nothing but spaces or tabs is considered
-blank.) Normal paragraphs should not be indented with spaces or tabs.
+![](/assets/dsc09830.jpg)
 
-The implication of the "one or more consecutive lines of text" rule is
-that Markdown supports "hard-wrapped" text paragraphs. This differs
-significantly from most other text-to-HTML formatters (including Movable
-Type's "Convert Line Breaks" option) which translate every line break
-character in a paragraph into a `<br />` tag.
+Mùi thơm phức của hàu nướng phô mai khiến tôi không thể chờ đợi để thưởng thức. Đây là món ăn hoàn hảo cho bữa tiệc gia đình hoặc hội bạn bè. Hàu được nướng tới khi chín và vàng, mềm mại và có độ dai vừa phải, còn phô mai thì giòn tan và ngọt ngào. Hai vị này hòa quyện với nhau tạo nên một hương vị đặc biệt và đậm đà.
 
-When you _do_ want to insert a `<br />` break tag using Markdown, you
-end a line with two or more spaces, then type return.
+ 
 
-### Headers
+![](/assets/dsc09802.jpg)
 
-Markdown supports two styles of headers, [Setext] [1] and [atx] [2].
+## Q﻿uán ăn đa dạng món ăn và giá cả phải chăng
 
-Optionally, you may "close" atx-style headers. This is purely
-cosmetic -- you can use this if you think it looks better. The
-closing hashes don't even need to match the number of hashes
-used to open the header. (The number of opening hashes
-determines the header level.)
+Ngoài hàu nướng phô mai, nhà hàng cũng có nhiều món hải sản khác như: tôm hùm, cua đồng, mực nướng, sò điệp… Tất cả đều được chế biến tinh tế và đảm bảo chất lượng. Giá cả tại nhà hàng này cũng khá phải chăng, phù hợp với túi tiền của đa số khách hàng.
 
-### Blockquotes
+ 
 
-Markdown uses email-style `>` characters for blockquoting. If you're
-familiar with quoting passages of text in an email message, then you
-know how to create a blockquote in Markdown. It looks best if you hard
-wrap the text and put a `>` before every line:
+![](/assets/dsc09801.jpg)
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
->
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-
-Markdown allows you to be lazy and only put the `>` before the first
-line of a hard-wrapped paragraph:
-
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-
-Blockquotes can be nested (i.e. a blockquote-in-a-blockquote) by
-adding additional levels of `>`:
-
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
-
-Blockquotes can contain other Markdown elements, including headers, lists,
-and code blocks:
-
-> ## This is a header.
->
-> 1.  This is the first list item.
-> 2.  This is the second list item.
->
-> Here's some example code:
->
->     return shell_exec("echo $input | $markdown_script");
-
-Any decent text editor should make email-style quoting easy. For
-example, with BBEdit, you can make a selection and choose Increase
-Quote Level from the Text menu.
-
-### Lists
-
-Markdown supports ordered (numbered) and unordered (bulleted) lists.
-
-Unordered lists use asterisks, pluses, and hyphens -- interchangably
--- as list markers:
-
-- Red
-- Green
-- Blue
-
-is equivalent to:
-
-- Red
-- Green
-- Blue
-
-and:
-
-- Red
-- Green
-- Blue
-
-Ordered lists use numbers followed by periods:
-
-1.  Bird
-2.  McHale
-3.  Parish
-
-It's important to note that the actual numbers you use to mark the
-list have no effect on the HTML output Markdown produces. The HTML
-Markdown produces from the above list is:
-
-If you instead wrote the list in Markdown like this:
-
-1.  Bird
-1.  McHale
-1.  Parish
-
-or even:
-
-3. Bird
-1. McHale
-1. Parish
-
-you'd get the exact same HTML output. The point is, if you want to,
-you can use ordinal numbers in your ordered Markdown lists, so that
-the numbers in your source match the numbers in your published HTML.
-But if you want to be lazy, you don't have to.
-
-To make lists look nice, you can wrap items with hanging indents:
-
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-  viverra nec, fringilla in, laoreet vitae, risus.
-- Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-But if you want to be lazy, you don't have to:
-
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-  viverra nec, fringilla in, laoreet vitae, risus.
-- Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-List items may consist of multiple paragraphs. Each subsequent
-paragraph in a list item must be indented by either 4 spaces
-or one tab:
-
-1.  This is a list item with two paragraphs. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-    mi posuere lectus.
-
-    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-    sit amet velit.
-
-2.  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-It looks nice if you indent every line of the subsequent
-paragraphs, but here again, Markdown will allow you to be
-lazy:
-
-- This is a list item with two paragraphs.
-
-      This is the second paragraph in the list item. You're
-
-  only required to indent the first line. Lorem ipsum dolor
-  sit amet, consectetuer adipiscing elit.
-
-- Another item in the same list.
-
-To put a blockquote within a list item, the blockquote's `>`
-delimiters need to be indented:
-
-- A list item with a blockquote:
-
-  > This is a blockquote
-  > inside a list item.
-
-To put a code block within a list item, the code block needs
-to be indented _twice_ -- 8 spaces or two tabs:
-
-- A list item with a code block:
-
-      <code goes here>
-
-### Code Blocks
-
-Pre-formatted code blocks are used for writing about programming or
-markup source code. Rather than forming normal paragraphs, the lines
-of a code block are interpreted literally. Markdown wraps a code block
-in both `<pre>` and `<code>` tags.
-
-To produce a code block in Markdown, simply indent every line of the
-block by at least 4 spaces or 1 tab.
-
-```javascript
-import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
-import Navigation from "../components/navigation"
-
-export default ({ children }) => {
-  const data = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-      }
-    `
-  )
-  return (
-    <div className="site-wrapper">
-      <header className="site-header">
-        <div className="site-title">
-          <Link to="/">{data.site.siteMetadata.title}</Link>
-        </div>
-        <Navigation />
-      </header>
-      {children}
-    </div>
-  )
-}
-```
-
-This is a normal paragraph:
-
-`This is a code block.`
-
-Here is an example of AppleScript:
-
-    tell application "Foo"
-        beep
-    end tell
-
-A code block continues until it reaches a line that is not indented
-(or the end of the article).
-
-Within a code block, ampersands (`&`) and angle brackets (`<` and `>`)
-are automatically converted into HTML entities. This makes it very
-easy to include example HTML source code using Markdown -- just paste
-it and indent it, and Markdown will handle the hassle of encoding the
-ampersands and angle brackets. For example, this:
-
-    <div class="footer">
-        &copy; 2004 Foo Corporation
-    </div>
-
-![Royal Mail](/assets/royal-mail-unsplash.jpg)
-
-Regular Markdown syntax is not processed within code blocks. E.g.,
-asterisks are just literal asterisks within a code block. This means
-it's also easy to use Markdown to write about Markdown's own syntax.
-
-```shell
-tell application "Foo"
-    beep
-end tell
-```
-
-## Span Elements
-
-### Links
-
-Markdown supports two style of links: _inline_ and _reference_.
-
-In both styles, the link text is delimited by [square brackets].
-
-To create an inline link, use a set of regular parentheses immediately
-after the link text's closing square bracket. Inside the parentheses,
-put the URL where you want the link to point, along with an _optional_
-title for the link, surrounded in quotes. For example:
-
-This is [an example](http://example.com/) inline link.
-
-[This link](http://example.net/) has no title attribute.
-
-### Emphasis
-
-Markdown treats asterisks (`*`) and underscores (`_`) as indicators of
-emphasis. Text wrapped with one `*` or `_` will be wrapped with an
-HTML `<em>` tag; double `*`'s or `_`'s will be wrapped with an HTML
-`<strong>` tag. E.g., this input:
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-### Code
-
-To indicate a span of code, wrap it with backtick quotes (`` ` ``).
-Unlike a pre-formatted code block, a code span indicates code within a
-normal paragraph. For example:
-
-Use the `printf()` function.
-
-<iframe src="https://sunflower-business-mobi.netlify.app/" width="600" height="400"></iframe>
+Tổng kết lại, trải nghiệm của tôi khi thưởng thức món hàu nướng phô mai tại nhà hải sản Bé Hạnh rất tuyệt vời. Món ăn đậm đà, tinh tế và giá cả phải chăng. Nhân viên phục vụ nhiệt tình và thân thiện, tạo cảm giác thoải mái cho khách hàng. Quán cũng rất sạch sẽ và thoáng mát, tạo không gian ấm cúng và thân thiện. Nếu bạn là tín đồ của hải sản và muốn thưởng thức món hàu nướng phô mai ngon tại TP. Hồ Chí Minh, nhà hàng Bé Hạnh chắc chắn là một địa điểm không thể bỏ qua.

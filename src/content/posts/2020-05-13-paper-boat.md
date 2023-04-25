@@ -20,3 +20,5 @@ Khi cắn miếng cá, thịt bên trong thơm ngon không thấy mùi tanh nh�
 Tổng quan, tôi rất hài lòng khi thưởng thức món cá nhói nướng ớt xanh tại quán hải sản Bé Hạnh và chắc chắn sẽ quay lại để thử nhiều món ăn khác.
 
 ![](/assets/dsc05288.jpg)
+
+Địa chỉ quán hải Bé Hạnh : 091 414 29 16 https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7

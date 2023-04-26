@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Hàu nướng phô mai
+title: Hàu nướng phô mai-Bé Hạnh
 slug: /hau-nuong-pho-mai
 date: 2023-04-25 11:57
 description: Nhà hàng Bé Hạnh là một địa điểm ẩm thực nổi tiếng tại TP. Đà Nẵng

@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Ốc hương xào bơ tỏi
+title: Ốc hương xào bơ tỏi - Ốc Quê
 slug: /oc-huong-xao-bo-toi
 date: 2023-04-26 11:15
 description: Nếu bạn đang tìm kiếm một món ăn ngon và đầy dinh dưỡng tại Quán Ốc

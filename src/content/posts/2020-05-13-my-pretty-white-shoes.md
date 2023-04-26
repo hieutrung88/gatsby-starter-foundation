@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Lẩu Tôm Hùm
+title: Lẩu Tôm Hùm-Bé Hạnh
 slug: /lau-tom-hum-da-nang
 date: 2023-04-23 15:20
 description: "Lẩu tôm hùm món ăn tưởng chừng xa xỉ khi bạn đến Đà Nẵng , nhưng

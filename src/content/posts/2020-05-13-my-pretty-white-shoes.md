@@ -31,4 +31,6 @@ Lẩu tôm hùm cần sử dụng các nguyên liệu tươi sống cao cấp đ
 
 Thái độ phục vụ của nhân viên trong nhà hàng rất chuyên nghiệp và nhiệt tình. Bắt đầu từ việc giới thiệu thực đơn cho đến khi đưa ra món ăn và thanh toán, mọi thứ đều được xử lý một cách chuyên nghiệp và nhanh chóng.
 
-Địa chỉ quán hải Bé Hạnh : 091 414 29 16 https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7
+Địa chỉ quán hải Bé Hạnh : 240 Khúc Hạo, Nại Hiên Đông, Sơn Trà, Đà Nẵng
+
+M﻿ap : https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7

@@ -15,4 +15,6 @@ Khi nếm thử, ốc giác có vị ngọt tự nhiên, vị dai và béo ngậ
 
 Ngoài ra, màu sắc đa dạng của các loại rau củ, trái cây khi trộn lẫn với ốc giác tạo nên một món ăn tươi mới, hấp dẫn và lôi cu
 
-Địa chỉ quán hải Bé Hạnh : 091 414 29 16 https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7
+Địa chỉ quán hải Bé Hạnh : 240 Khúc Hạo, Nại Hiên Đông, Sơn Trà, Đà Nẵng
+
+M﻿ap : https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7

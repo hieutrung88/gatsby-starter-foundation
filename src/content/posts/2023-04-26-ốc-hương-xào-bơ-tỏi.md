@@ -29,7 +29,7 @@ Món ốc hương xào bơ tỏi thường được chế biến nhanh chóng v�
 
 Ngoài món ốc hương xào bơ tỏi, Quán Ốc Quê cũng có rất nhiều món ăn hấp dẫn khác như tôm hùm nướng, cua hoàng đế hấp, ốc mỡ xào sa tế,... Nhân viên phục vụ tại đây cũng rất nhiệt tình và chu đáo, sẵn sàng giải đáp mọi thắc mắc của khách hàng và tư vấn cho họ những món ăn phù hợp với sở thích và khẩu vị.
 
-Dịch vụ tuyệt vời của quán
+## Dịch vụ tuyệt vời của quán
 
 Với chất lượng tuyệt vời của món ăn và dịch vụ tốt của Quán Ốc Quê, bạn sẽ không thất vọng khi ghé thăm và thưởng thức món ốc hương xào bơ tỏi tại đây. Hãy đến thử và trải nghiệm những hương vị đặc trưng của ẩm thực miền Trung ngay hôm nay.
 

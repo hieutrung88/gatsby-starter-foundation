@@ -27,4 +27,6 @@ Tôi đã có cơ hội thưởng thức món ăn này ở một nhà hàng hả
 
 Tóm lại, tôm tít sốt bơ tỏi là một món ăn ngon và có lợi cho sức khỏe. Nếu bạn chưa thưởng thức món này, tôi khuyên bạn nên thử. Nó sẽ là một trải nghiệm thú vị cho vị giác của bạn.
 
-Địa chỉ quán hải Bé Hạnh : 091 414 29 16 https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7
+Địa chỉ quán hải Bé Hạnh : 240 Khúc Hạo, Nại Hiên Đông, Sơn Trà, Đà Nẵng
+
+M﻿ap : https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7

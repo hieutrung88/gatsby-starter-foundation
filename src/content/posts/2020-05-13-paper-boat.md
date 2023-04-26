@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Cá nhói nướng ớt xanh
+title: Cá nhói nướng ớt xanh-Bé Hạnh
 slug: /ca-nhoi-nuong-ot-xanh
 date: 2023-04-23 14:59
 description: >

@@ -21,3 +21,7 @@ Món gỏi cá lạc được ăn kèm với nước sốt ngon đậm đà, t�
 Điểm đặc biệt của gỏi cá lạc là sự phong phú về dinh dưỡng, đặc biệt là omega-3 trong cá, chất xơ và các loại vitamin từ rau củ. Chính vì thế, món ăn này rất được ưa chuộng bởi những người ăn chay hoặc theo chế độ ăn uống lành mạnh.
 
 Tóm lại, gỏi cá lạc là một món ăn nhẹ nhàng, giàu dinh dưỡng và đầy đủ hương vị. Sự kết hợp giữa cá tươi, rau củ và đậu phộng giòn tạo ra một món ăn tuyệt vời cho bữa ăn trưa hoặc bữa tối. Hãy thử món ăn này tại nhà hàng để trải nghiệm một hương vị đầy tinh tế và hấp dẫn.
+
+Địa chỉ quán hải Bé Hạnh : 240 Khúc Hạo, Nại Hiên Đông, Sơn Trà, Đà Nẵng
+
+M﻿ap : https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7

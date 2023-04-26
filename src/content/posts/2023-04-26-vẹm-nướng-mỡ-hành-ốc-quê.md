@@ -18,6 +18,8 @@ Món vẹm nướng mỡ hành của quán được chế biến từ những co
 
 Mùi thơm của vẹm khi nướng lên phảng phất khắp không gian quán. Khi chúng ta thưởng thức, thịt vẹm mềm mại, ngọt thơm, còn vỏ ngoài giòn tan. Đặc biệt, mùi vị của mỡ hành, hành tím và tỏi băm thấm đều vào từng sợi thịt vẹm khiến cho món ăn trở nên hấp dẫn hơn.
 
+![](/assets/dsc03091.jpg)
+
 Ngoài vẹm nướng mỡ hành, quán cũng cung cấp một loạt các món ăn khác như ốc len xào dừa, ốc móng tay xào me, ốc giác hấp bia, sò huyết xào chua ngọt và nhiều món ăn khác nữa.
 
 ## Không gian quán sạch sẽ thoáng mát và nhân nhiệt tình

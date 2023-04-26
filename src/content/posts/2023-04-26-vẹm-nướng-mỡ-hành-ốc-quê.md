@@ -22,6 +22,8 @@ Mùi thơm của vẹm khi nướng lên phảng phất khắp không gian quán
 
 Ngoài vẹm nướng mỡ hành, quán cũng cung cấp một loạt các món ăn khác như ốc len xào dừa, ốc móng tay xào me, ốc giác hấp bia, sò huyết xào chua ngọt và nhiều món ăn khác nữa.
 
+![](/assets/dsc03089.jpg)
+
 ## Không gian quán sạch sẽ thoáng mát và nhân nhiệt tình
 
 Quán Ốc Quê có không gian sạch sẽ, thoáng mát, với không gian bàn ghế thoải mái và được trang trí đẹp mắt. Đội ngũ nhân viên phục vụ nhiệt tình, thân thiện, đảm bảo rằng khách hàng sẽ có một trải nghiệm tuyệt vời khi đến thưởng thức món ăn tại quán.

@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Tôm sốt bơ tỏi
+title: Tôm sốt bơ tỏi-Bé Hạnh
 slug: /tom-sot-bo-toi
 date: 2023-04-23 15:37
 description: Hải Sản Bé Hạnh / 240 Khúc Hạo, Sơn Trà, Đà Nẵng

@@ -32,3 +32,5 @@ Tổng kết lại, món cháo nghêu tại quán Ốc Quê là một món ăn �
 Ngoài ra, quán cũng đảm bảo vệ sinh an toàn thực phẩm và thực đơn được cập nhật thường xuyên để đảm bảo sự đa dạng và phù hợp với khẩu vị của khách hàng. Nếu bạn đang có kế hoạch du lịch đến Đà Nẵng và muốn tìm kiếm một địa điểm ẩm thực độc đáo, thì quán Ốc Quê chắc chắn sẽ là một lựa chọn tuyệt vời.
 
 Trên đây là những chia sẻ của tôi về món cháo nghêu tại quán Ốc Quê. Hy vọng rằng bài viết này sẽ giúp các bạn có thêm thông tin và lựa chọn được một địa điểm ẩm thực đáng để ghé thăm.
+
+Địa chỉ quán Ốc Quê :  *[45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng](<45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng>)*

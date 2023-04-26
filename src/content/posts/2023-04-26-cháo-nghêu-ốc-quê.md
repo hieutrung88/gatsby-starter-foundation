@@ -33,4 +33,6 @@ Ngoài ra, quán cũng đảm bảo vệ sinh an toàn thực phẩm và thực 
 
 Trên đây là những chia sẻ của tôi về món cháo nghêu tại quán Ốc Quê. Hy vọng rằng bài viết này sẽ giúp các bạn có thêm thông tin và lựa chọn được một địa điểm ẩm thực đáng để ghé thăm.
 
-Địa chỉ quán Ốc Quê :  *[45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng](<45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng>)*
+Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
+
+M﻿ap : https://maps.app.goo.gl/tBXvaJMFtz6svV4L9

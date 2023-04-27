@@ -7,7 +7,7 @@ description: Với sự kết hợp của những loại hải sản tươi ngon
   và ngêu, món ăn này mang lại hương vị đặc trưng của vùng biển sâu thẳm.
 featuredImage: /assets/dsc03081.jpg
 ---
-Hôm nay mình muốn chia sẻ với các bạn về trải nghiệm của mình khi đến ăn lẩu hải sản tại quán Ốc quê. Đây là một quán ăn nổi tiếng tại Hà Nội với nhiều món ăn ngon và giá cả phải chăng.
+Hôm nay mình muốn chia sẻ với các bạn về trải nghiệm của mình khi đến ăn lẩu hải sản tại quán Ốc quê. Đây là một quán ăn nổi tiếng tại Đà Nẵng
 
 Điểm đặc biệt của quán Ốc quê chính là lẩu hải sản. Mình đã thử nhiều loại lẩu ở đây nhưng ấn tượng nhất vẫn là lẩu hải sản tươi sống. Món ăn này được chế biến từ các loại hải sản tươi như tôm, mực, cua, ghẹ và các loại cá khác. Hải sản được chọn lọc kỹ càng và chế biến ngay tại chỗ để đảm bảo tươi ngon nhất.
 

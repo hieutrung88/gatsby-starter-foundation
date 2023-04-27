@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Vẹm nướng mỡ hành - Ốc Quê
+title: Vẹm nướng mỡ hành ngon tuyệt tại Ốc Quê
 slug: /vem-nuong-mo-hanh
 date: 2023-04-26 12:28
 description: Ốc Quê là một trong những quán ăn nổi tiếng ở Đà Nẵng với các món

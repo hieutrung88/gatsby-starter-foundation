@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Gỏi cá lạc-Bé Hạnh
+title: Gỏi cá lạc tươi sống tại Bé Hạnh
 slug: /goi-ca-lac
 date: 2023-04-23 16:45
 description: Hải Sản Bé Hạnh / 240 Khúc Hạo, Sơn Trà, Đà Nẵng

@@ -42,5 +42,4 @@ Hãy đến và trải nghiệm cùng với gia đình và bạn bè tại quán
 ### **T﻿hông tin liên hệ:**
 
 * **Địa chỉ quán Ốc Quê :** 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
-
-**M﻿ap :** https://maps.app.goo.gl/tBXvaJMFtz6svV4L9
+* **M﻿ap :** https://maps.app.goo.gl/tBXvaJMFtz6svV4L9

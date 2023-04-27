@@ -9,6 +9,8 @@ featuredImage: /assets/z4299251626745_26dd6e08284dcacf77e4904d4c0cfc88.jpg
 ---
 Bạn là người yêu thích ăn ốc và đang tìm kiếm một món ốc ngon, độc đáo và được chế biến theo nhiều phong cách khác nhau? Hãy đến với Ốc Quê Đà Nẵng và thưởng thức món ốc cà na hấp, xào, rang muối cực ngon, đảm bảo sẽ không làm bạn thất vọng.
 
+![](/assets/z4299251626745_26dd6e08284dcacf77e4904d4c0cfc88.jpg)
+
 ## Món ốc cà na hấp
 
 Món ốc cà na hấp là một trong những món ăn được yêu thích nhất tại nhà hàng Ốc Quê. Với cách chế biến độc đáo và tinh tế, ốc cà na được hấp chín mềm, giữ nguyên hương vị tự nhiên của ốc cùng với gia vị tạo nên hương vị đặc trưng. Món ăn này được chế biến từ ốc cà na tươi ngon, kết hợp với nước sốt cay nồng, tỏi, ớt và gia vị tạo nên hương vị độc đáo và hấp dẫn.

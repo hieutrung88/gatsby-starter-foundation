@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Ốc bươu xào sả ớt - Ốc Quê "
+title: Món ốc bươu xào sả ớt cay nồng hấp dẫn tại Ốc Quê
 slug: /oc-buou-xao-sa-ot
 date: 2023-04-26 11:48
 description: Nếu bạn đang tìm kiếm một món ăn đậm chất miền quê Việt Nam thì món

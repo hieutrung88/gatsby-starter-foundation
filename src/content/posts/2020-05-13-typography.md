@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Lẩu ghẹ chua cay-Bé Hạnh
+title: Đắm chìm trong hương vị lẩu ghẹ chua cay tại Bé Hạnh
 slug: /lau-ghe-chua-cay
 date: 2023-04-23 15:54
 description: Lẩu ghẹ là một trong những món ăn đặc trưng của ẩm thực Đà Nẵng,

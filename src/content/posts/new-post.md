@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Tôm tít sốt bơ tỏi-Bé Hạnh
+title: Tôm tít sốt bơ tỏi ngon đến ngất ngây tại Bé Hạnh
 slug: /tom-tit-chay-toi
 date: 2023-04-25 14:44
 description: Tôm tít sốt bơ tỏi là một món ăn khá đơn giản, nhưng lại vô cùng

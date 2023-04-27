@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Cháo nghêu - Ốc Quê
+title: Món cháo nghêu thơm lừng tại Ốc Quê
 slug: /chao-ngheu-oc-que
 date: 2023-04-26 10:16
 description: Hôm nay, tôi muốn chia sẻ với các bạn về một món ăn đặc trưng của

@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Thưởng thức hương vị đặc trưng biển cả với lẩu hải sản tươi sống tại ốc quê
+title: Thưởng thức hương vị đặc trưng biển cả với lẩu hải sản tươi sống tại Ốc Quê
 slug: thuong-thuc-huong-vi-dac-trung-bien-ca-voi-lau-hai-san-tuoi-song-tai-oc-que
 date: 2023-04-27 11:29
 description: Với sự kết hợp của những loại hải sản tươi ngon như mực, cá, chả cá

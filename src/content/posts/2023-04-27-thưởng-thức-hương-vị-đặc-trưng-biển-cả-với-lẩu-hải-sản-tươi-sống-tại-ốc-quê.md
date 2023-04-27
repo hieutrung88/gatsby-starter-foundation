@@ -7,9 +7,11 @@ description: Với sự kết hợp của những loại hải sản tươi ngon
   và ngêu, món ăn này mang lại hương vị đặc trưng của vùng biển sâu thẳm.
 featuredImage: /assets/dsc03081.jpg
 ---
-Hôm nay mình muốn chia sẻ với các bạn về trải nghiệm của mình khi đến ăn lẩu hải sản tại quán Ốc quê. Đây là một quán ăn nổi tiếng tại Đà Nẵng
+Hôm nay mình muốn chia sẻ với các bạn về trải nghiệm của mình khi đến ăn lẩu hải sản tại quán Ốc Quê. Đây là một quán ăn nổi tiếng tại Đà Nẵng
 
-Điểm đặc biệt của quán Ốc quê chính là lẩu hải sản. Mình đã thử nhiều loại lẩu ở đây nhưng ấn tượng nhất vẫn là lẩu hải sản tươi sống. Món ăn này được chế biến từ các loại hải sản tươi như tôm, mực, cua, ghẹ và các loại cá khác. Hải sản được chọn lọc kỹ càng và chế biến ngay tại chỗ để đảm bảo tươi ngon nhất.
+## Điểm đặc biệt của quán Ốc Quê
+
+Chính là lẩu hải sản. Mình đã thử nhiều loại lẩu ở đây nhưng ấn tượng nhất vẫn là lẩu hải sản tươi sống. Món ăn này được chế biến từ các loại hải sản tươi như tôm, mực, cua, ghẹ và các loại cá khác. Hải sản được chọn lọc kỹ càng và chế biến ngay tại chỗ để đảm bảo tươi ngon nhất.
 
 ![](/assets/dsc03094.jpg)
 
@@ -17,12 +19,16 @@ Mùi vị của lẩu hải sản rất đậm đà và thơm ngon. Nước lẩ
 
 Không chỉ có lẩu hải sản, quán còn có nhiều món ăn ngon khác như ốc, sò điệp, cua, tôm, mực... Mình rất thích ăn ốc tại đây vì ốc được chế biến rất đậm đà, thơm ngon và giá cả rất hợp lý. Các loại hải sản khác cũng được chế biến tuyệt vời và đảm bảo chất lượng.
 
-Ngoài ra, không gian quán cũng rất thoáng mát và sạch sẽ. Nhân viên phục vụ tận tình và thân thiện. Giá cả của các món ăn tại quán cũng rất hợp lý và phù hợp với túi tiền của mọi người.
+## Ngoài ra 
+
+Không gian quán cũng rất thoáng mát và sạch sẽ. Nhân viên phục vụ tận tình và thân thiện. Giá cả của các món ăn tại quán cũng rất hợp lý và phù hợp với túi tiền của mọi người.
 
 ![](/assets/dsc03093.jpg)
 
-Tổng kết lại, nếu bạn là người yêu thích hải sản và đang tìm kiếm một quán ăn ngon và giá cả phải chăng, thì quán Ốc quê là một lựa chọn tuyệt vời. Với các món ăn tươi ngon, đậm đà và chất lượng được đảm bảo, cùng không gian quán thoáng mát và phục vụ tận tình, đây là một địa điểm không thể bỏ qua.
+## Tóm lại
 
-Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
+Nếu bạn là người yêu thích hải sản và đang tìm kiếm một quán ăn ngon và giá cả phải chăng, thì quán Ốc Quê là một lựa chọn tuyệt vời. Với các món ăn tươi ngon, đậm đà và chất lượng được đảm bảo, cùng không gian quán thoáng mát và phục vụ tận tình, đây là một địa điểm không thể bỏ qua.
 
-M﻿ap : https://maps.app.goo.gl/tBXvaJMFtz6svV4L9
+**Địa chỉ quán Ốc Quê :** 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
+
+**M﻿ap :** https://maps.app.goo.gl/tBXvaJMFtz6svV4L9

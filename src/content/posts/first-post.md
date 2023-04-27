@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Cá đuối nướng-Bé Hạnh
+title: Ngon ngất ngây với cá đuối nướng tại Bé Hạnh
 slug: /ca-duoi-nuong
 date: 2023-04-24 15:14
 description: Hải Sản Bé Hạnh / 240 Khúc Hạo, Sơn Trà, Đà Nẵng

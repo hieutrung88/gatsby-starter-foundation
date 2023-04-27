@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Gỏi ốc giác ngon chuẩn-Bé Hạnh
+title: Gỏi ốc giác ngon chuẩn tại Bé Hạnh
 slug: /goi-oc-giac-da-nang
 date: 2023-04-23 15:35
 description: >

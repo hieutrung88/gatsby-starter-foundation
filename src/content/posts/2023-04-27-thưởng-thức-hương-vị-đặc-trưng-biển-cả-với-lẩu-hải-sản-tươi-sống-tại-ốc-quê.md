@@ -22,3 +22,7 @@ Ngoài ra, không gian quán cũng rất thoáng mát và sạch sẽ. Nhân vi�
 ![](/assets/dsc03093.jpg)
 
 Tổng kết lại, nếu bạn là người yêu thích hải sản và đang tìm kiếm một quán ăn ngon và giá cả phải chăng, thì quán Ốc quê là một lựa chọn tuyệt vời. Với các món ăn tươi ngon, đậm đà và chất lượng được đảm bảo, cùng không gian quán thoáng mát và phục vụ tận tình, đây là một địa điểm không thể bỏ qua.
+
+Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
+
+M﻿ap : https://maps.app.goo.gl/tBXvaJMFtz6svV4L9

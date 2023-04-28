@@ -31,3 +31,9 @@ Tôm sốt bơ tỏi ở nhà hàng Bé Hạnh được chế biến rất tinh 
 ## Tổng kết
 
  Tóm lại, món tôm sốt bơ tỏi tại nhà hàng Bé Hạnh Bình Thạnh là một món ăn đặc trưng của địa phương, được chế biến tinh tế và đầy đa dạng. Món ăn đem lại trải nghiệm thưởng thức độc đáo và giá cả phải,bạn nên thử món tôm sốt bơ tỏi nó sẽ khiến bạn bất ngờ với hương vị của nó mang lại
+
+## **T﻿hông tin liên hệ**
+
+* Địa chỉ quán hải Bé Hạnh : 240 Khúc Hạo, Nại Hiên Đông, Sơn Trà, Đà Nẵng
+* M﻿ap : https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7
+* Website : https://haisanbehanh.com

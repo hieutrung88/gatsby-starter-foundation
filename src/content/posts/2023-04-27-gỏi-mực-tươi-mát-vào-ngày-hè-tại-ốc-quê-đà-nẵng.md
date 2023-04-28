@@ -11,7 +11,7 @@ Nếu bạn đang tìm kiếm một món ăn ngon và đậm đà vị biển, h
 
 ![](/assets/dsc09360_1.jpg)
 
-## 1. Đặc điểm của món gỏi hải sản tại Ốc Quê Đà Nẵng  
+## 1. Đặc điểm của món gỏi hải sản tại Ốc Quê Đà Nẵng
 
 Món gỏi hải sản tại Ốc Quê được làm từ các loại hải sản tươi ngon như tôm, cua, cá, sò điệp, kèm theo rau sống như rau thơm, rau răm, rau mùi, ớt và hành tím cắt nhỏ. Những thành phần này được trộn chung với nước mắm, đường, chanh và tỏi tạo thành nước chấm thơm ngon. Khi thưởng thức, bạn sẽ cảm nhận được hương vị đậm đà, cay nồng của nước chấm hòa quyện cùng hải sản tươi ngon và rau sống giòn tan.
 
@@ -25,14 +25,14 @@ Ngoài ra, quán còn có khu vực ngoài trời với bàn ghế gỗ chất l
 
 Đội ngũ nhân viên của Ốc Quê Đà Nẵng rất nhiệt tình, chu đáo và luôn sẵn sàng phục vụ khách hàng. Họ sẽ giúp đỡ và tư vấn cho bạn về các món ăn và đồ uống phù hợp với sở thích và nhu cầu của bạn.
 
-## 3. Kết luận 
+## 3. Kết luận
 
 Với không gian ấm cúng, đội ngũ nhân viên phục vụ tận tình và món gỏi hải sản tươi ngon, Ốc Quê Đà Nẵng chắc chắn sẽ mang đến cho bạn một trải nghiệm ẩm thực tuyệt vời. Hãy ghé thăm quán để thưởng thức món gỏi hải sản và các món ăn đặc trưng khác
-
-<!--StartFragment-->
 
 ### Địa chỉ
 
 Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
 
-M﻿ap : <https://maps.app.goo.gl/tBXvaJMFtz6svV4L9>
+M﻿ap : https://maps.app.goo.gl/tBXvaJMFtz6svV4L9
+
+Website : ocquedanang.com

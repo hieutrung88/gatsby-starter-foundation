@@ -28,7 +28,7 @@ Nếu bạn đến Đà Nẵng và muốn thưởng thức món bạch tuộc n�
 
 Hy vọng bài review này sẽ giúp bạn có thêm thông tin về món ăn đặc trưng của Đà Nẵng và quán ăn Ốc Quê Đà Nẵng. Chúc bạn có một trải nghiệm ẩm thực thú vị
 
-### Địa chỉ
+## T﻿hông tin liên hệ
 
 Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
 

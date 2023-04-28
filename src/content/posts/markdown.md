@@ -31,8 +31,8 @@ Ngoài hàu nướng phô mai, nhà hàng cũng có nhiều món hải sản kh�
 
 Tổng kết lại, trải nghiệm của tôi khi thưởng thức món hàu nướng phô mai tại nhà hải sản Bé Hạnh rất tuyệt vời. Món ăn đậm đà, tinh tế và giá cả phải chăng. Nhân viên phục vụ nhiệt tình và thân thiện, tạo cảm giác thoải mái cho khách hàng. Quán cũng rất sạch sẽ và thoáng mát, tạo không gian ấm cúng và thân thiện. Nếu bạn là tín đồ của hải sản và muốn thưởng thức món hàu nướng phô mai ngon tại TP. Hồ Chí Minh, nhà hàng Bé Hạnh chắc chắn là một địa điểm không thể bỏ qua.
 
-Địa chỉ quán hải Bé Hạnh : 240 Khúc Hạo, Nại Hiên Đông, Sơn Trà, Đà Nẵng
+## **T﻿hông tin liên hệ**
 
-M﻿ap : https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7
-
-Website : https://haisanbehanh.com
+* Địa chỉ quán hải Bé Hạnh : 240 Khúc Hạo, Nại Hiên Đông, Sơn Trà, Đà Nẵng
+* M﻿ap : https://maps.app.goo.gl/sjV2ELQVKWdBNg7b7
+* Website : https://haisanbehanh.com

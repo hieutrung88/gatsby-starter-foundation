@@ -29,8 +29,8 @@ Không gian quán Ốc Quê tại Đà Nẵng được thiết kế đơn giản
 
 Không gian ẩm thực của quán được bố trí hài hòa và tinh tế, từ chỗ bàn ghế đến cách bài trí, tạo cảm giác vừa ấm áp vừa sang trọng. Với không gian như thế, quán Ốc Quê rất thích hợp cho những buổi họp mặt bạn bè, gia đình hay thậm chí là những buổi tiệc tùng nhỏ.
 
-### Địa chỉ
+## T﻿hông tin liên hệ
 
-Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
-
-M﻿ap : <https://maps.app.goo.gl/tBXvaJMFtz6svV4L9>
+* Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
+* M﻿ap : https://maps.app.goo.gl/tBXvaJMFtz6svV4L9
+* Website : ocquedanang.com

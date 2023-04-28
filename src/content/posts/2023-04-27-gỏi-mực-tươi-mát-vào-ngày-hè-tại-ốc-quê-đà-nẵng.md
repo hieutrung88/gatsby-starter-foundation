@@ -29,7 +29,7 @@ Ngoài ra, quán còn có khu vực ngoài trời với bàn ghế gỗ chất l
 
 Với không gian ấm cúng, đội ngũ nhân viên phục vụ tận tình và món gỏi hải sản tươi ngon, Ốc Quê Đà Nẵng chắc chắn sẽ mang đến cho bạn một trải nghiệm ẩm thực tuyệt vời. Hãy ghé thăm quán để thưởng thức món gỏi hải sản và các món ăn đặc trưng khác
 
-### Địa chỉ
+## T﻿hông tin liên hệ
 
 Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
 

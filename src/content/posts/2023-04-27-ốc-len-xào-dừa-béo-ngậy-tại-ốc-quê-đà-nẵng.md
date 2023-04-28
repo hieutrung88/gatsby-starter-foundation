@@ -15,7 +15,7 @@ Bài viết này sẽ giới thiệu đến bạn đọc về món ăn ốc len 
 
  Ốc Quê Đà Nẵng là một trong những quán ăn được yêu thích tại Đà Nẵng, nơi bạn có thể thưởng thức nhiều món ăn đặc trưng của vùng miền Trung. Quán có không gian ngoài trời rộng rãi, bàn ghế gỗ chất lượng và được vệ sinh an toàn thực phẩm đảm bảo. Bên cạnh đó, đội ngũ nhân viên phục vụ tận tình và chu đáo, mang đến cho khách hàng một trải nghiệm ẩm thực đáng nhớ.
 
-## Món ăn đặc trưng - ốc len xào dừa 
+## Món ăn đặc trưng - ốc len xào dừa
 
 Nếu bạn là tín đồ của ẩm thực đường phố miền Trung, chắc hẳn sẽ không thể bỏ qua món ốc len xào dừa tại quán Ốc Quê Đà Nẵng. Đây là món ăn được nhiều khách hàng yêu thích và quay lại thường xuyên khi ghé thăm quán.
 
@@ -29,8 +29,8 @@ Quan trọng hơn, quán Ốc Quê Đà Nẵng luôn đảm bảo chất lượn
 
 Nếu bạn đang muốn tìm kiếm một địa điểm để thưởng thức ẩm thực đặc trưng của Đà Nẵng, quán Ốc Quê Đà Nẵng là một lựa chọn tuyệt vời. Hãy ghé thăm và trải nghiệm những món ăn ngon tuyệt của quán!
 
-### Địa điểm
+## T﻿hông tin liên hệ
 
-Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
-
-M﻿ap : <https://maps.app.goo.gl/tBXvaJMFtz6svV4L9>
+* Địa chỉ quán Ốc Quê : 45B Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng
+* M﻿ap : https://maps.app.goo.gl/tBXvaJMFtz6svV4L9
+* Website : ocquedanang.com

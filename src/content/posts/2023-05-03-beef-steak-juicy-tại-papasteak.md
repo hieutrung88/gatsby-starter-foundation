@@ -15,7 +15,7 @@ Món beef steak tại Papasteak được chế biến theo phong cách châu Âu
 
 Sau khi chế biến, món beef steak được trình bày trên đĩa với sốt bơ tỏi đậm đà, rau xanh tươi và khoai tây chiên giòn. Sự kết hợp này tạo nên một bữa ăn đầy đủ dinh dưỡng và hấp dẫn.
 
-![PAPA STEAK, Da Nang - 88 D. 2 Thang 9 - Restaurant Reviews, Photos & Phone  Number - Tripadvisor](https://media-cdn.tripadvisor.com/media/photo-s/1b/09/fd/ad/getlstd-property-photo.jpg)
+![](/assets/getlstd-property-photo.jpg)
 
 ## 2﻿. Giá cả và dịch vụ
 
@@ -23,11 +23,11 @@ Giá của món beef steak tại Papasteak khá phù hợp với chất lượng
 
 Dịch vụ tại Papasteak cũng rất chuyên nghiệp và tận tình. Nhân viên luôn lịch sự, thân thiện và nhiệt tình trong việc tư vấn cho khách hàng. Thời gian phục vụ tại quán cũng rất nhanh chóng và đảm bảo đúng tiến độ.
 
-## 3﻿. Không gian 
+## 3﻿. Không gian
 
 Không gian tại quán Papasteak rất thoải mái và ấm cúng. Bàn ghế được bố trí đơn giản nhưng rất sang trọng và tinh tế, tạo nên một không gian ấn tượng cho thực khách. Đồng thời, quán cũng có không gian riêng tư cho các buổi tiệc hay các sự kiện riêng tư.
 
-![Papa Steak 88 Đ. 2 Tháng 9, Bình Hiên, Hải Châu, Đà Nẵng 550000, Vietnam](https://www.zonevietnam.com/uploads/gallery/papa-steak-4.jpg)
+![](/assets/papa-steak-4.jpg)
 
 ## 4﻿. Đánh giá tổng quan
 

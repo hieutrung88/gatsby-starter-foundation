@@ -6,7 +6,7 @@ date: 2023-04-27 17:01
 description: Món lẩu bê non là một trong những món ăn đặc trưng của miền Trung,
   với hương vị đậm đà, tươi ngon và đầy ấn tượng. Nếu bạn đang tìm kiếm một địa
   điểm để thưởng thức món ăn này tại Đà Nẵng
-featuredImage: /assets/dsc09379.jpg
+featuredImage: /assets/dsc09377_1.jpg
 ---
 Món lẩu bê non là một trong những món ăn đặc trưng của miền Trung, với hương vị đậm đà, tươi ngon và đầy ấn tượng. Nếu bạn đang tìm kiếm một địa điểm để thưởng thức món ăn này tại Đà Nẵng, quán Ốc Quê là một trong những lựa chọn hàng đầu.
 

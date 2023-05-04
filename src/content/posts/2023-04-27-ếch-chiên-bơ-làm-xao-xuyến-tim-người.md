@@ -5,7 +5,7 @@ slug: ech-chien-bo-lam-xao-xuyen-tim-nguoi
 date: 2023-04-27 16:28
 description: Ếch chiên bơ giòn tan, thơm ngon tại Ốc Quê Đà Nẵng - món ăn đặc
   trưng hấp dẫn nhưng bình dân giản dị
-featuredImage: /assets/z4299932786371_48dd99a00058450da7e3aa1e9d269c14.jpg
+featuredImage: /assets/dsc09372.jpg
 ---
 Ẩm thực Đà Nẵng có rất nhiều món ăn ngon, tuy nhiên, không thể bỏ qua món ếch chiên bơ khi đến thăm quán Ốc Quê. Ốc Quê là địa điểm quen thuộc với những món ăn hải sản ngon miệng, tuy nhiên, món ếch chiên bơ tại đây cũng được đánh giá cao bởi vị ngon đặc trưng và hương thơm bơ tỏi thơm lừng.
 

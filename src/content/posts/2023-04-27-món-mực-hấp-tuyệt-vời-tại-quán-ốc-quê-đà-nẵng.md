@@ -5,7 +5,7 @@ slug: mon-muc-hap-tuyet-voi-tai-quan-oc-que-da-nang
 date: 2023-04-27 15:18
 description: Bạn đang tìm kiếm một quán ăn tại Đà Nẵng với món mực hấp đặc biệt?
   Hãy đến ngay quán Ốc Quê - một địa điểm ẩm thực hấp dẫn,...
-featuredImage: /assets/dsc09366.jpg
+featuredImage: /assets/dsc09363.jpg
 ---
 Bạn đang tìm kiếm một quán ăn tại Đà Nẵng với món mực hấp đặc biệt? Hãy đến ngay quán Ốc Quê - một địa điểm ẩm thực hấp dẫn, với không gian ấm cúng, vệ sinh an toàn thực phẩm và nhân viên phục vụ tận tình. Bài viết này sẽ giới thiệu đến bạn về món mực hấp đặc biệt của quán cũng như những đặc điểm nổi bật của không gian và dịch vụ tại đây.
 

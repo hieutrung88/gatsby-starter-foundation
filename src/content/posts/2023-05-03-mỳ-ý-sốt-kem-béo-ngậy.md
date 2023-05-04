@@ -5,6 +5,7 @@ slug: my-y-sot-kem-beo-ngay
 date: 2023-05-03 10:11
 description: Mỳ Ý sốt kem tại Papasteak - món ăn đậm chất Ý, được chế biến từ
   các loại hải sản tươi ngon kết hợp cùng sốt kem béo ngậy, thơm ngon hấp dẫn.
+featuredImage: /assets/mon-mi-y-sot-kem-thit-xong-khoi.jpg
 ---
 Papasteak là một quán ăn phục vụ các món ăn châu Âu và Mỹ tại thành phố Đà Nẵng. Với nhiều năm kinh nghiệm trong lĩnh vực ẩm thực, Papasteak đã trở thành một trong những địa điểm ưa thích của thực khách trong và ngoài thành phố.
 

@@ -5,7 +5,7 @@ slug: trung-ga-non-xao-nam-muop-mon-an-ngon-cua-quan-oc-que
 date: 2023-04-27 16:56
 description: Nếu bạn đang tìm kiếm một món ăn đầy đủ dinh dưỡng, vừa ngon miệng
   vừa bổ dưỡng thì trứng gà non xào nắm, mướp của quán Ốc quê tại Đà Nẵng
-featuredImage: /assets/dsc09370.jpg
+featuredImage: /assets/dsc09371_1.jpg
 ---
 Nếu bạn đang tìm kiếm một món ăn đầy đủ dinh dưỡng, vừa ngon miệng vừa bổ dưỡng thì trứng gà non xào nắm, mướp của quán Ốc quê tại Đà Nẵng chắc chắn là lựa chọn tuyệt vời. Đặc biệt, với không gian ngoài trời, bàn ghế gỗ chất lượng và vệ sinh an toàn thực phẩm, bạn có thể thưởng thức món ăn trong không khí mát mẻ và thoải mái. Hãy cùng tôi đánh giá chi tiết về món ăn và dịch vụ của quán này.
 

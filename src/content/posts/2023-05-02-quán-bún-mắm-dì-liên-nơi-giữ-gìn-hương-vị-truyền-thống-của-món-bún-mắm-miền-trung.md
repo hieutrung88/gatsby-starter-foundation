@@ -7,7 +7,7 @@ date: 2023-05-02 10:09
 description: Quán nằm trong một khu vực yên tĩnh với không gian ngoài trời rộng
   rãi, được trang trí bằng bàn ghế gỗ chất lượng cao, tạo ra một không gian
   thoải mái và ấm cúng cho khách hàng thưởng thức món ăn.
-featuredImage: /assets/2022-08-15.jpg
+featuredImage: /assets/04b.jpg
 ---
 Nếu bạn đang tìm kiếm một địa điểm để thưởng thức món bún mắm đậm đà, hấp dẫn và mang hương vị truyền thống miền Trung thì quán bún mắm Dì Liên tại Đà Nẵng chính là lựa chọn hoàn hảo cho bạn. Quán nằm trong một khu vực yên tĩnh với không gian ngoài trời rộng rãi, được trang trí bằng bàn ghế gỗ chất lượng cao, tạo ra một không gian thoải mái và ấm cúng cho khách hàng thưởng thức món ăn.
 

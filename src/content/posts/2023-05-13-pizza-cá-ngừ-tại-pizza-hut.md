@@ -5,6 +5,7 @@ slug: pizza-ca-ngu-tai-pizza-hut
 date: 2023-05-13 12:21
 description: Đánh giá về món pizza Cá Ngừ tại Pizza Hut. Tận hưởng kết hợp độc
   đáo giữa cá ngừ tươi và hương vị pizza thơm ngon.
+featuredImage: /assets/pizza-cá-ngừ.png
 ---
 ## Chất Lượng và Hương Vị
 

@@ -5,7 +5,7 @@ slug: pizza-pho-mai-dai-dai-deo-deo
 date: 2023-05-03 11:00
 description: Thưởng thức Pizza phô mai dai dai dẻo dẻo đúng điệu tại nhà hàng
   Pizza Hut với hương vị đặc trưng và giá cả hợp lý.
-featuredImage: /assets/dsc03091.jpg
+featuredImage: /assets/mania_de_esfiha-mozzarella.jpg
 ---
 Pizza Hut là một trong những chuỗi nhà hàng pizza lớn nhất thế giới, với hơn 18.000 cửa hàng trên toàn thế giới. Tại Đà Nẵng, Pizza Hut đã trở thành một trong những điểm đến ưa thích của những người yêu pizza. Trong đó, Pizza phô mai được coi là món ăn đặc trưng và được nhiều người lựa chọn khi đến Pizza Hut. 
 
